@@ -166,7 +166,7 @@ El estudiante debe conectar una métrica con una acción concreta de mejora para
 # RESOLUCIÓN - KAROLAYN BUÑAY
 
 *   **Tu Turno (Actividad del Estudiante):**
-    > *"Si analizamos el **tiempo que tardan los clientes en firmar los contratos** y optimizamos el **proceso de firma y cierre administrativo mediante la firma electrónica y recordatorios automáticos**, entonces lograremos **reducir el abandono de clientes en un 15 %**, debido a la **disminución de los tiempos de espera, los errores administrativos y las dificultades durante el proceso de cierre**."*
+    > *"Si analizamos el **tiempo que tardan los clientes en firmar los contratos** y optimizamos el proceso de firma y cierre administrativo mediante la firma electrónica y recordatorios automáticos, entonces lograremos reducir el abandono de clientes en un 15 %, debido a la disminución de los tiempos de espera, los errores administrativos y las dificultades durante el proceso de cierre."*
 
 
 ---
@@ -179,11 +179,13 @@ El estudiante debe definir cómo medirá si su hipótesis y acciones son correct
     2.  *Tasa de Conversión de propuestas enviadas a firmadas.*
     3.  *NPS del cliente durante el cierre de ventas.*
 
+# RESOLUCIÓN - KAROLAYN BUÑAY
+
 *   **Tu Turno (Actividad del Estudiante):**
     Escribe 3 KPIs cuantitativos o cualitativos para medir el éxito de tu hipótesis:
-    1.  *KPI 1: [Escribe aquí...]*
-    2.  *KPI 2: [Escribe aquí...]*
-    3.  *KPI 3: [Escribe aquí...]*
+    1.  **Tiempo promedio de firma del contrato:** cantidad promedio de días que transcurren desde que se envía el contrato hasta que el cliente lo firma. La meta es reducir este tiempo a un máximo de tres días.
+    2.  **Tasa de contratos firmados:** porcentaje de contratos firmados en relación con el total de contratos enviados. La meta es aumentar este indicador al menos un 15 %.
+    3.  **Nivel de satisfacción durante el cierre:** calificación promedio obtenida mediante una encuesta de satisfacción de 1 a 5. La meta es alcanzar una puntuación igual o superior a 4,3 sobre 5.
 
 ---
 
@@ -193,9 +195,11 @@ El estudiante debe proponer una acción de mejora automatizada u operativa si lo
 *   **Ejemplo de Referencia:**
     *Si el tiempo de firma supera los 5 días, se activará una secuencia de recordatorios automáticos y asistencia telefónica personalizada.*
 
+# RESOLUCIÓN - KAROLAYN BUÑAY
+
 *   **Tu Turno (Actividad del Estudiante):**
     Propón una acción concreta que se activará cuando tus KPIs muestren un rendimiento deficiente:
-    *   *Acción Correctiva: [Escribe aquí...]*
+    *   **Acción Correctiva:** Si el contrato no ha sido firmado después de tres días, el sistema enviará automáticamente un recordatorio al cliente con el enlace directo para completar la firma. Si después de cinco días continúa sin firmarse, se generará una notificación para que el asesor se comunique con el cliente, identifique el inconveniente y le brinde asistencia personalizada. Además, los contratos que presenten errores serán enviados al área administrativa para su corrección inmediata.
 
 ---
 
@@ -212,9 +216,18 @@ Para profundizar en el impacto real y cuantificable de la gobernanza y análisis
    * **Pregunta 2:** ¿Por qué los autores argumentan que la tecnología o la acumulación de datos por sí sola no es suficiente para generar valor, y qué rol juega la estructura y cultura organizacional?
    * **Pregunta 3:** Elige una empresa conocida (ej. Netflix, Amazon, Spotify o una empresa local de tu entorno) y explica brevemente cómo aplica los principios analíticos discutidos en el paper para mejorar su rendimiento de negocio.
 
+# RESOLUCIÓN - KAROLAYN BUÑAY
+
 #### **Tu Turno (Respuestas del Estudiante):**
-*   **Respuesta a Pregunta 1:** *[Escribe aquí...]*
-*   **Respuesta a Pregunta 2:** *[Escribe aquí...]*
-*   **Respuesta a Pregunta 3:** *[Escribe aquí...]*
+
+*   **Respuesta a Pregunta 1:** El estudio determinó que las empresas que aplican decisiones basadas en datos presentan una producción y productividad entre un **5 % y un 6 % superior** a la esperada, incluso después de considerar sus demás inversiones y el uso de tecnologías de información. El paper también encontró una relación positiva con el valor de mercado, aunque no establece un porcentaje general para este indicador. En su lugar, señala que un aumento de una desviación estándar en el uso de DDD se relaciona con aproximadamente **USD 6,50 adicionales de valor de mercado por cada USD 1 de capital de tecnologías de información**.
+
+*   **Respuesta a Pregunta 2:** Los autores explican que la tecnología permite recopilar, almacenar y procesar grandes cantidades de información, pero tener datos no garantiza que estos sean utilizados correctamente. Para generar valor, la empresa necesita una cultura organizacional que promueva decisiones basadas en evidencia, personal capacitado para interpretar la información, procesos consistentes, responsabilidades definidas y participación de la dirección. Por lo tanto, la estructura y la cultura organizacional son las que permiten convertir los datos en decisiones y acciones que mejoren el rendimiento de la empresa.
+
+*   **Respuesta a Pregunta 3:** **Amazon** aplica estos principios mediante el análisis de las búsquedas, compras, preferencias e interacciones de sus clientes. Con esta información realiza pruebas para comparar productos, recomendaciones, precios y cambios dentro de su plataforma. Después analiza los resultados e implementa las alternativas que generan un mejor rendimiento. De esta manera, Amazon utiliza los datos para personalizar la experiencia de compra, mejorar sus procesos y aumentar sus ventas.
+
+### **Referencia**
+
+Brynjolfsson, E., Hitt, L. M., & Kim, H. H. (2011). *Strength in numbers: How does data-driven decisionmaking affect firm performance?* Proceedings of the 32nd International Conference on Information Systems. https://doi.org/10.2139/ssrn.1819486*
 
 
