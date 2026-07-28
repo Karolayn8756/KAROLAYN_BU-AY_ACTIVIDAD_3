@@ -144,12 +144,14 @@ El estudiante debe diagnosticar qué información tiene la empresa y qué inform
     | **Eficiencia del Proceso** | Fecha de envío del contrato. | Tiempo que tarda el cliente en firmar. | Logs del gestor de firma digital. |
     | **Calidad del Servicio** | Número de quejas registradas. | Nivel de satisfacción (NPS) del onboarding. | CRM de soporte. |
 
+# RESOLUCIÓN - KAROLAYN BUÑAY
+
 *   **Tu Turno (Actividad del Estudiante):**
-    Elige un problema de negocio (ej. *alta rotación de personal*, *lentitud en soporte al cliente*, o *bajas ventas en tienda online*) y rellena la siguiente matriz con tu diagnóstico:
+   El problema de negocio seleccionado es la fricción en la firma de contratos y el cierre administrativo, debido a que muchos clientes interesados abandonan la compra durante esta etapa.:
 
     | Dimensión | Datos Disponibles (¿Qué tenemos?) | Datos Faltantes (¿Qué necesitamos?) | Fuente de Obtención |
     | :--- | :--- | :--- | :--- |
-    | **Comportamiento / Acción** | *[Escribe aquí...]* | *[Escribe aquí...]* | *[Escribe aquí...]* |
+    | **Comportamiento / Acción** | *Cantidad de propuestas aceptadas, contratos enviados, contratos firmados y oportunidades marcadas como perdidas en el CRM.* | *Motivo exacto del abandono, paso donde se detuvo el cliente, canal utilizado, dudas presentadas y número de recordatorios recibidos.* | *CRM, encuesta breve de salida, entrevistas a clientes y analítica del portal de firma.* |
     | **Eficiencia del Proceso** | *[Escribe aquí...]* | *[Escribe aquí...]* | *[Escribe aquí...]* |
     | **Calidad / Satisfacción** | *[Escribe aquí...]* | *[Escribe aquí...]* | *[Escribe aquí...]* |
 
