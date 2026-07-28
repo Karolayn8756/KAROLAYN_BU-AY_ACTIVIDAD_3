@@ -196,10 +196,7 @@ El estudiante debe proponer una acción de mejora automatizada u operativa si lo
     *Si el tiempo de firma supera los 5 días, se activará una secuencia de recordatorios automáticos y asistencia telefónica personalizada.*
 
 # RESOLUCIÓN - KAROLAYN BUÑAY
-
-*   **Tu Turno (Actividad del Estudiante):**
-    Propón una acción concreta que se activará cuando tus KPIs muestren un rendimiento deficiente:
-    *   **Acción Correctiva:** Si el contrato no ha sido firmado después de tres días, el sistema enviará automáticamente un recordatorio al cliente con el enlace directo para completar la firma. Si después de cinco días continúa sin firmarse, se generará una notificación para que el asesor se comunique con el cliente, identifique el inconveniente y le brinde asistencia personalizada. Además, los contratos que presenten errores serán enviados al área administrativa para su corrección inmediata.
+ *   **Acción Correctiva:** Si el contrato no ha sido firmado después de tres días, el sistema enviará automáticamente un recordatorio al cliente con el enlace directo para completar la firma. Si después de cinco días continúa sin firmarse, se generará una notificación para que el asesor se comunique con el cliente, identifique el inconveniente y le brinde asistencia personalizada. Además, los contratos que presenten errores serán enviados al área administrativa para su corrección inmediata.
 
 ---
 
