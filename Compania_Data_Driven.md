@@ -152,8 +152,8 @@ El estudiante debe diagnosticar qué información tiene la empresa y qué inform
     | Dimensión | Datos Disponibles (¿Qué tenemos?) | Datos Faltantes (¿Qué necesitamos?) | Fuente de Obtención |
     | :--- | :--- | :--- | :--- |
     | **Comportamiento / Acción** | *Cantidad de propuestas aceptadas, contratos enviados, contratos firmados y oportunidades marcadas como perdidas en el CRM.* | *Motivo exacto del abandono, paso donde se detuvo el cliente, canal utilizado, dudas presentadas y número de recordatorios recibidos.* | *CRM, encuesta breve de salida, entrevistas a clientes y analítica del portal de firma.* |
-    | **Eficiencia del Proceso** | *[Escribe aquí...]* | *[Escribe aquí...]* | *[Escribe aquí...]* |
-    | **Calidad / Satisfacción** | *[Escribe aquí...]* | *[Escribe aquí...]* | *[Escribe aquí...]* |
+    | **Eficiencia del Proceso** | *Fecha de aceptación de la propuesta, fecha de envío del contrato, estado final y responsable comercial.* | *Tiempo que tarda el cliente en firmar, número de correcciones, documentos solicitados y errores técnicos o administrativos.* | *Registros del gestor de contratos, plataforma de firma electrónica, ERP y mesa de ayuda.* |
+    | **Calidad / Satisfacción** | *Quejas, correos, llamadas y casos de soporte relacionados con el cierre.* | *Nivel de satisfacción del cliente, claridad percibida del contrato, facilidad del proceso y comentarios sobre la atención recibida.* | *Encuesta automática después de firmar o abandonar, CRM de soporte y revisión de comentarios.* |
 
 ---
 
@@ -163,9 +163,11 @@ El estudiante debe conectar una métrica con una acción concreta de mejora para
 *   **Ejemplo de Referencia:**
     > *"Si analizamos el **tiempo de firma de contratos** y optimizamos el flujo usando **firma electrónica**, entonces lograremos **reducir el abandono de clientes en un 15%** debido a la **eliminación de fricciones físicas**."*
 
+# RESOLUCIÓN - KAROLAYN BUÑAY
+
 *   **Tu Turno (Actividad del Estudiante):**
-    Redacta tu propia hipótesis para el problema elegido utilizando la siguiente estructura:
-    > *"Si analizamos **[Dato/Métrica]** y optimizamos **[Proceso]**, entonces lograremos **[Objetivo/Mejora]** debido a **[Razón técnica o de negocio]**."*
+    > *"Si analizamos el **tiempo que tardan los clientes en firmar los contratos** y optimizamos el **proceso de firma y cierre administrativo mediante la firma electrónica y recordatorios automáticos**, entonces lograremos **reducir el abandono de clientes en un 15 %**, debido a la **disminución de los tiempos de espera, los errores administrativos y las dificultades durante el proceso de cierre**."*
+
 
 ---
 
